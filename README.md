@@ -78,7 +78,7 @@ Se desarrolló un dashboard en Power BI que permite:
 
 ## 📄 Informe completo
 
-El informe técnico detallado del proyecto se encuentra en el archivo [`Informe académico.pdf`](docs/Informe académico.pdf).
+El informe técnico detallado del proyecto se encuentra en el archivo [`Informe académico.pdf`](Informe académico.pdf).
 
 ---
 
